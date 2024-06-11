@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lexigonz
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning full stack Javascript - HTML, CSS, JS, Node, React, MongoDB.
-- ✨ I have a website now! It's https://lexigonz.netlify.app/
+- 👀 I’m a business admin student at University of Arizona.
+- 🌱 I’m currently learning Python.
 
 <!---
 lexigonz/lexigonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
